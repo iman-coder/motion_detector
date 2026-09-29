@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Generated motion recordings
+*.avi
+
+# Local tooling
+.vscode/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
